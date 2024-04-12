@@ -1,7 +1,5 @@
 package calc;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 public class CalculatorService {
     private Calculator calculator;
     
